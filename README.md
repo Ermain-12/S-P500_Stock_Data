@@ -1,1 +1,1 @@
-# S-P500_Stock_Data
+# S&P 500 Stock Data
